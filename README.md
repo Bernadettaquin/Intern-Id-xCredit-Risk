@@ -51,7 +51,7 @@ To predict the risk of loan default using historical applicant data. The insight
 | `installment`         | ~0.05–0.10        |
 | `loan_to_income_ratio`| ~0.05–0.10        |
 
-> **Insight:** Relative debt burden (e.g., `loan_to_income_ratio`) is a more reliable indicator than absolute income.
+> **Insight:** Relative debt burden (e.g., `loan_to_income_ratio`) is a more reliable indicator than annual income.
 
 ## Business Recommendations
 
